@@ -1,5 +1,5 @@
 # Talkify
-  Talkify is a chat application where users can create account and can experience realtime chatting with there friends.
+  Talkify is a chat application where users can create account and can experience realtime chatting with their friends.
   ## `Tech Stack`
 
   Client: React JS
